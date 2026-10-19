@@ -1,94 +1,98 @@
-<div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:050510,25:00F5FF,60:7B2CFF,100:FF00A8&text=STEVE%20BALDEVISO&fontSize=42&fontColor=FFFFFF&fontAlignY=40&animation=twinkling&desc=HARDWARE%20%2F%20FIRMWARE%20%2F%20EMBEDDED%20SYSTEMS&descSize=13&descAlignY=62" width="100%"/><img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=19&duration=2200&pause=600&color=00F5FF&center=true&vCenter=true&width=650&height=35&lines=%5B+SYSTEM+BOOT+COMPLETE+%5D;%3E+BUILDING+BEYOND+THE+SCREEN...;%3E+HARDWARE+MEETS+CODE;%3E+FUTURE+ELECTRONICS+ENGINEER" /><img src="https://img.shields.io/badge/STATUS-ONLINE-00F5FF?style=for-the-badge&labelColor=080814"/>
-<img src="https://img.shields.io/badge/CLASS-GRADE_10_STE-7B2CFF?style=for-the-badge&labelColor=080814"/>
-<img src="https://img.shields.io/badge/FOCUS-EMBEDDED-FF00A8?style=for-the-badge&labelColor=080814"/>
-<img src="https://img.shields.io/badge/REGION-PHILIPPINES-00F5FF?style=for-the-badge&labelColor=080814"/></div>---
+<!-- =====================================================
+     STEVE BALDEVISO // CYBERNETIC SYSTEMS INTERFACE
+     Replace YOUR_USERNAME with your actual GitHub username.
+===================================================== -->
 
-"01 // SYSTEM_PROFILE"
+<div align="center">
 
-┌─────────────────────────────────────────────┐
-│  USER      : STEVE BALDEVISO                │
-│  AFFILIATION: CNCHS / GRADE 10 STE           │
-│  SPECIALTY : HARDWARE + LOW-LEVEL SOFTWARE  │
-│  OBJECTIVE : ELECTRONICS ENGINEERING        │
-│  DIRECTIVE : MAKE IDEAS WORK IN REAL LIFE   │
-└─────────────────────────────────────────────┘
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=160&color=0:05070D,45:071B2A,75:16203B,100:05070D&text=STEVE%20BALDEVISO&fontColor=EAFBFF&fontSize=40&fontAlignY=42&desc=HARDWARE%20%2F%20FIRMWARE%20%2F%20EMBEDDED%20SYSTEMS&descSize=12&descColor=00E5FF&descAlignY=66"/>
 
-«"I DON'T JUST WANT TO WRITE CODE. I WANT TO BUILD THE SYSTEMS THAT RUN IT."»
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=15&duration=2600&pause=700&color=00E5FF&center=true&vCenter=true&width=600&height=28&lines=%3E+SYSTEM+INITIALIZED;%3E+HARDWARE+MEETS+SOFTWARE;%3E+BUILD.+TEST.+ITERATE.;%3E+ENGINEERING+THE+PHYSICAL+WORLD." alt="Animated terminal text"/>
 
-I'm interested in the intersection of electronics, embedded programming, and physical prototyping — from sensor interfaces and microcontrollers to firmware that interacts with real-world hardware.
+<br/>
 
-Current mission: Learn by building, debugging, testing, and improving.
-
-"02 // TECHNOLOGY GRID"
-
-<div align="center">"01 / FIRMWARE"| "02 / MICROCONTROLLERS"
-<img src="https://img.shields.io/badge/C%2B%2B-00F5FF?style=for-the-badge&logo=c%2B%2B&logoColor=black"/>| <img src="https://img.shields.io/badge/ESP32-7B2CFF?style=for-the-badge&logo=espressif&logoColor=white"/>
-<img src="https://img.shields.io/badge/Arduino-00F5FF?style=for-the-badge&logo=arduino&logoColor=black"/>| <img src="https://img.shields.io/badge/ESP8266-FF00A8?style=for-the-badge&logo=espressif&logoColor=white"/>
-"Embedded logic"| "Wireless / IoT"
-
-"03 / DEVELOPMENT"| "04 / TOOLS"
-<img src="https://img.shields.io/badge/Python-7B2CFF?style=for-the-badge&logo=python&logoColor=white"/>| <img src="https://img.shields.io/badge/Linux-00F5FF?style=for-the-badge&logo=linux&logoColor=black"/>
-"Automation / scripting"| "System exploration"
-
-</div>"03 // HARDWARE DATABASE"
-
-<details>
-<summary><b>▸ NODE_001 — ESP32 / WIRELESS SOC</b></summary>[ PROCESSOR ] Dual-Core Xtensa LX6*
-[ CONNECTIVITY ] Wi-Fi + Bluetooth
-[ APPLICATION ] IoT / Embedded Control
-[ OBJECTIVE ] Connected hardware systems
-
-*Specifications depend on the ESP32 variant.
-
-</details><details>
-<summary><b>▸ NODE_002 — ARDUINO UNO / MCU</b></summary>[ CHIP ] ATmega328P
-[ I/O ] Analog + Digital
-[ CONTROL ] Sensors / LEDs / Actuators
-[ APPLICATION ] Physical prototyping
-
-</details><details>
-<summary><b>▸ NODE_003 — ESP8266 / WIRELESS MCU</b></summary>[ PROCESSOR ] Tensilica L106
-[ CONNECTIVITY ] Wi-Fi
-[ APPLICATION ] Networked embedded devices
-[ OBJECTIVE ] Lightweight IoT experiments
-
-</details>"04 // ACTIVE DEVELOPMENT"
-
-> INITIALIZING PROJECT TRACKER...
-
-[01] MICROCONTROLLER PROGRAMMING
-     ├── Sensor input and threshold logic
-     ├── LED control and digital outputs
-     └── Serial communication / debugging
-
-[02] HARDWARE + FIRMWARE
-     ├── Circuit prototyping
-     ├── Embedded control logic
-     └── Testing and iterative improvement
-
-[03] NEXT OBJECTIVE
-     ├── Expand C/C++ fundamentals
-     ├── Explore ESP32 development
-     └── Build more complex physical systems
-
-> STATUS: LEARNING IN PROGRESS_
-
-"05 // DEVELOPMENT PHILOSOPHY"
-
-<div align="center"><img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=17&duration=3000&pause=1000&color=FF00A8&center=true&vCenter=true&width=600&height=35&lines=THINK+IN+CIRCUITS.;CODE+WITH+PURPOSE.;TEST+IN+THE+REAL+WORLD.;REPEAT+UNTIL+IT+WORKS." /></div>┌─ BUILD CYCLE ───────────────────────┐
-│                                     │
-│  DESIGN  ->  PROTOTYPE  ->  TEST    │
-│     ^                       |       │
-│     └──── DEBUG <- IMPROVE ─┘       │
-│                                     │
-└─────────────────────────────────────┘
-
-My goal is to become an electronics engineer who can work across hardware, embedded firmware, and real-world system integration — not just one side of the equation.
-
-"06 // CONNECT / TRANSMISSION"
-
-<div align="center"><a href="https://github.com/SteveBaldeviso">
-<img src="https://img.shields.io/badge/GITHUB-REPOSITORIES-00F5FF?style=for-the-badge&logo=github&logoColor=white&labelColor=080814"/>
-</a><img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:FF00A8,45:7B2CFF,100:050510"/>"[ END OF TRANSMISSION // MORE SYSTEMS IN DEVELOPMENT ]"
+<img src="https://img.shields.io/badge/FOCUS-EMBEDDED_SYSTEMS-00E5FF?style=flat-square&labelColor=080D16"/>
+<img src="https://img.shields.io/badge/INTEREST-HARDWARE_%2B_FIRMWARE-BB70FF?style=flat-square&labelColor=080D16"/>
+<img src="https://img.shields.io/badge/BASE-PHILIPPINES-00E5FF?style=flat-square&labelColor=080D16"/>
 
 </div>
+
+---
+
+```text
+  SIGNAL RECEIVED ..................................  OK
+  HARDWARE INTERFACE .............................. READY
+  FIRMWARE DEVELOPMENT ............................ ACTIVE
+  LONG-TERM OBJECTIVE ........ ELECTRONICS ENGINEERING
+
+"01 / OPERATOR PROFILE"
+
+I'm a Grade 10 STE student at Cabatuan National Comprehensive High School, interested in building systems where physical electronics and software work together.
+
+My primary interest is embedded engineering: microcontrollers, sensors, firmware, circuit prototyping, debugging, and turning ideas into functional hardware.
+
+CURRENT DIRECTIVE
+[01] Understand the hardware.
+[02] Write the firmware.
+[03] Test the physical system.
+[04] Debug. Refine. Repeat.
+
+"02 / TECHNICAL INTERFACE"
+
+<div align="center"><img src="https://img.shields.io/badge/C%2B%2B-00E5FF?style=flat-square&logo=c%2B%2B&logoColor=080D16"/>
+<img src="https://img.shields.io/badge/ARDUINO-00E5FF?style=flat-square&logo=arduino&logoColor=080D16"/>
+<img src="https://img.shields.io/badge/ESP32-BB70FF?style=flat-square&logo=espressif&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/ESP8266-BB70FF?style=flat-square&logo=espressif&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/PYTHON-7BAEFF?style=flat-square&logo=python&logoColor=080D16"/>
+<img src="https://img.shields.io/badge/LINUX-A7B4C8?style=flat-square&logo=linux&logoColor=080D16"/></div>SYSTEM| APPLICATION
+Arduino Uno| Sensor input, LED control, prototyping
+ESP32| Wireless embedded systems, IoT exploration
+ESP8266| Wi-Fi-enabled microcontroller projects
+C/C++| Microcontroller programming and control logic
+Python| Scripting and automation exploration
+Linux| Systems and development environment exploration
+
+"03 / HARDWARE NODES"
+
+<details>
+<summary><code>NODE_01 // ARDUINO UNO</code></summary>- ATmega328P microcontroller
+- Analog and digital I/O
+- Sensor-driven logic and output control
+- Physical prototyping and serial debugging
+
+</details><details>
+<summary><code>NODE_02 // ESP32</code></summary>- Dual-core Xtensa LX6 on the original ESP32
+- Wi-Fi and Bluetooth capabilities
+- Embedded control and IoT exploration
+
+</details><details>
+<summary><code>NODE_03 // ESP8266</code></summary>- Tensilica L106 processor
+- Wi-Fi connectivity
+- Networked embedded device experiments
+
+</details>"04 / ACTIVITY TELEMETRY"
+
+<div align="center"><img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&bg_color=080D16&title_color=00E5FF&text_color=B8C7D9&icon_color=BB70FF&include_all_commits=true" alt="GitHub statistics"/><img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&bg_color=080D16&title_color=00E5FF&text_color=B8C7D9" alt="Most-used languages"/><br/><img width="90%" src="https://streak-stats.demolab.com?user=YOUR_USERNAME&hide_border=true&background=080D16&ring=00E5FF&fire=BB70FF&currStreakLabel=00E5FF&sideLabels=B8C7D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=718096" alt="GitHub contribution streak"/><br/><img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=080D16&color=B8C7D9&line=00E5FF&point=BB70FF&area=true&area_color=102B40&hide_border=true&custom_title=DEVELOPMENT%20SIGNAL%20%2F%2F%20CONTRIBUTION%20HISTORY" alt="Contribution activity graph"/></div>"05 / BUILD PIPELINE"
+
+  IDEA
+   |
+   v
+  CIRCUIT DESIGN -----> FIRMWARE
+   |                       |
+   v                       v
+  PROTOTYPE ----------> INTEGRATION
+                           |
+                           v
+                       TEST / DEBUG
+                           |
+                           v
+                       ITERATION
+
+"06 / NEXT TRANSMISSION"
+
+My long-term goal is to become an electronics engineer working across hardware design, embedded firmware, and real-world system integration.
+
+I want to understand not only how to program a device, but also how its circuits, signals, components, and software interact.
+
+<div align="center"><img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=13&duration=3000&pause=1200&color=00E5FF&center=true&vCenter=true&width=550&height=25&lines=DESIGN+THE+CIRCUIT.;WRITE+THE+FIRMWARE.;MAKE+IT+WORK+IN+THE+REAL+WORLD." alt="Engineering motto"/><img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=90&section=footer&color=0:05070D,45:10263B,75:16203B,100:05070D"/></div>
+```
