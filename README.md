@@ -1,16 +1,19 @@
-## Hi there 👋
+<!-- HEADER BANNER -->
+<div align="center">
+  <h1>⚡ STEVE BALDEVISO</h1>
+  <p><b>Embedded Systems | IoT Architecture | Hardware & Firmware Engineering</b></p>
+  
+  <p>
+    <img src="https://img.shields.io/badge/Focus-ESP32%20%26%20Microcontrollers-00f2fe?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Language-Embedded%20C%2B%2B-blue?style=for-the-badge" />
+  </p>
+</div>
 
-<!--
-**SteveBaldeviso0712/SteveBaldeviso0712** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🔬 Technical Focus & Hardware Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```text
+[Hardware]   ESP32, Arduino Uno, Sensor Interfacing, Relays, Motors, Circuit Diagrams
+[Software]   Embedded C++, Python, Basic C Control Logic
+[Tools]      Wokwi, EasyEDA, VS Code, Git/GitHub, Linux (Bash)
