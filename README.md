@@ -1,98 +1,65 @@
-<!-- =====================================================
-     STEVE BALDEVISO // CYBERNETIC SYSTEMS INTERFACE
-     Replace YOUR_USERNAME with your actual GitHub username.
-===================================================== -->
+<!-- STEVE BALDEVISO // CYBERPUNK ENGINEERING PROFILE --><div align="center"><img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:05070D,35:10172B,65:092C40,100:05070D&text=STEVE%20BALDEVISO&fontSize=40&fontColor=EAFBFF&fontAlignY=40&desc=HARDWARE%20%2F%2F%20FIRMWARE%20%2F%2F%20EMBEDDED%20SYSTEMS&descSize=12&descColor=00F5FF&descAlignY=63"/><img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=15&duration=2500&pause=700&color=00F5FF&center=true&vCenter=true&width=350&height=28&lines=%3E+SYSTEM+ONLINE;%3E+BUILDING+REAL-WORLD+SYSTEMS;%3E+HARDWARE+MEETS+CODE;%3E+ENGINEERING+THE+FUTURE" alt="Animated terminal"/><img src="https://img.shields.io/badge/FOCUS-EMBEDDED-00F5FF?style=flat-square&labelColor=080D16"/>
+<img src="https://img.shields.io/badge/CLASS-GRADE_10_STE-9D70FF?style=flat-square&labelColor=080D16"/>
+<img src="https://img.shields.io/badge/LOCATION-PH-00F5FF?style=flat-square&labelColor=080D16"/></div><img width="100%" height="5" src="https://capsule-render.vercel.app/api?type=rect&height=5&color=0:00F5FF,30:00F5FF,50:9D70FF,75:FF38C7,100:00F5FF" alt="Neon signal divider"/>"01 // OPERATOR PROFILE"
 
-<div align="center">
+I'm a Grade 10 STE student at Cabatuan National Comprehensive High School, interested in electronics, embedded programming, and building systems that interact with the physical world.
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=160&color=0:05070D,45:071B2A,75:16203B,100:05070D&text=STEVE%20BALDEVISO&fontColor=EAFBFF&fontSize=40&fontAlignY=42&desc=HARDWARE%20%2F%20FIRMWARE%20%2F%20EMBEDDED%20SYSTEMS&descSize=12&descColor=00E5FF&descAlignY=66"/>
+My goal is to become an electronics engineer who can work across hardware, firmware, prototyping, and system integration.
 
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=15&duration=2600&pause=700&color=00E5FF&center=true&vCenter=true&width=600&height=28&lines=%3E+SYSTEM+INITIALIZED;%3E+HARDWARE+MEETS+SOFTWARE;%3E+BUILD.+TEST.+ITERATE.;%3E+ENGINEERING+THE+PHYSICAL+WORLD." alt="Animated terminal text"/>
+> CURRENT DIRECTIVE
 
-<br/>
+[01] UNDERSTAND THE CIRCUIT
+[02] WRITE THE FIRMWARE
+[03] TEST THE HARDWARE
+[04] DEBUG // REFINE // REPEAT
 
-<img src="https://img.shields.io/badge/FOCUS-EMBEDDED_SYSTEMS-00E5FF?style=flat-square&labelColor=080D16"/>
-<img src="https://img.shields.io/badge/INTEREST-HARDWARE_%2B_FIRMWARE-BB70FF?style=flat-square&labelColor=080D16"/>
-<img src="https://img.shields.io/badge/BASE-PHILIPPINES-00E5FF?style=flat-square&labelColor=080D16"/>
+<img width="100%" height="5" src="https://capsule-render.vercel.app/api?type=rect&height=5&color=0:05070D,25:00F5FF,27:05070D,65:05070D,67:FF38C7,100:05070D" alt="Digital signal streak"/>"02 // TECH STACK"
 
-</div>
-
----
-
-```text
-  SIGNAL RECEIVED ..................................  OK
-  HARDWARE INTERFACE .............................. READY
-  FIRMWARE DEVELOPMENT ............................ ACTIVE
-  LONG-TERM OBJECTIVE ........ ELECTRONICS ENGINEERING
-
-"01 / OPERATOR PROFILE"
-
-I'm a Grade 10 STE student at Cabatuan National Comprehensive High School, interested in building systems where physical electronics and software work together.
-
-My primary interest is embedded engineering: microcontrollers, sensors, firmware, circuit prototyping, debugging, and turning ideas into functional hardware.
-
-CURRENT DIRECTIVE
-[01] Understand the hardware.
-[02] Write the firmware.
-[03] Test the physical system.
-[04] Debug. Refine. Repeat.
-
-"02 / TECHNICAL INTERFACE"
-
-<div align="center"><img src="https://img.shields.io/badge/C%2B%2B-00E5FF?style=flat-square&logo=c%2B%2B&logoColor=080D16"/>
-<img src="https://img.shields.io/badge/ARDUINO-00E5FF?style=flat-square&logo=arduino&logoColor=080D16"/>
-<img src="https://img.shields.io/badge/ESP32-BB70FF?style=flat-square&logo=espressif&logoColor=FFFFFF"/>
-<img src="https://img.shields.io/badge/ESP8266-BB70FF?style=flat-square&logo=espressif&logoColor=FFFFFF"/>
-<img src="https://img.shields.io/badge/PYTHON-7BAEFF?style=flat-square&logo=python&logoColor=080D16"/>
-<img src="https://img.shields.io/badge/LINUX-A7B4C8?style=flat-square&logo=linux&logoColor=080D16"/></div>SYSTEM| APPLICATION
-Arduino Uno| Sensor input, LED control, prototyping
-ESP32| Wireless embedded systems, IoT exploration
-ESP8266| Wi-Fi-enabled microcontroller projects
-C/C++| Microcontroller programming and control logic
-Python| Scripting and automation exploration
-Linux| Systems and development environment exploration
-
-"03 / HARDWARE NODES"
-
-<details>
-<summary><code>NODE_01 // ARDUINO UNO</code></summary>- ATmega328P microcontroller
-- Analog and digital I/O
-- Sensor-driven logic and output control
-- Physical prototyping and serial debugging
+<div align="center"><img src="https://skillicons.dev/icons?i=cpp,arduino,python,linux&theme=dark" alt="C++, Arduino, Python, Linux"/><br/><img src="https://img.shields.io/badge/ESP32-WIRELESS_MCU-00F5FF?style=flat-square&logo=espressif&logoColor=00F5FF&labelColor=080D16"/>
+<img src="https://img.shields.io/badge/ESP8266-IOT-9D70FF?style=flat-square&logo=espressif&logoColor=FFFFFF&labelColor=080D16"/>
+<img src="https://img.shields.io/badge/EMBEDDED-C%2B%2B-FF38C7?style=flat-square&labelColor=080D16"/></div><details>
+<summary><b>▸ HARDWARE SYSTEMS</b></summary>- Arduino Uno: analog and digital I/O, sensor inputs, LED control, and prototyping.
+- ESP32: wireless microcontrollers, Wi-Fi, Bluetooth, and IoT exploration.
+- ESP8266: Wi-Fi-enabled embedded devices.
 
 </details><details>
-<summary><code>NODE_02 // ESP32</code></summary>- Dual-core Xtensa LX6 on the original ESP32
-- Wi-Fi and Bluetooth capabilities
-- Embedded control and IoT exploration
+<summary><b>▸ SOFTWARE & DEVELOPMENT</b></summary>- C/C++: embedded programming and control logic.
+- Python: scripting and automation exploration.
+- Linux: systems and development environment exploration.
 
-</details><details>
-<summary><code>NODE_03 // ESP8266</code></summary>- Tensilica L106 processor
-- Wi-Fi connectivity
-- Networked embedded device experiments
+</details><img width="100%" height="5" src="https://capsule-render.vercel.app/api?type=rect&height=5&color=0:05070D,25:FF38C7,27:05070D,65:05070D,67:00F5FF,100:05070D" alt="Digital signal streak"/>"03 // HARDWARE DATABASE"
 
-</details>"04 / ACTIVITY TELEMETRY"
+<div align="center"><img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=SteveBaldeviso0712&bg_color=080D16&color=9BB0C8&line=00F5FF&point=FF38C7&area=true&area_color=10283A&hide_border=true&custom_title=DEVELOPMENT%20SIGNAL" alt="GitHub contribution activity graph"/></div>"04 // GITHUB TELEMETRY"
 
-<div align="center"><img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&bg_color=080D16&title_color=00E5FF&text_color=B8C7D9&icon_color=BB70FF&include_all_commits=true" alt="GitHub statistics"/><img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&bg_color=080D16&title_color=00E5FF&text_color=B8C7D9" alt="Most-used languages"/><br/><img width="90%" src="https://streak-stats.demolab.com?user=YOUR_USERNAME&hide_border=true&background=080D16&ring=00E5FF&fire=BB70FF&currStreakLabel=00E5FF&sideLabels=B8C7D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=718096" alt="GitHub contribution streak"/><br/><img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=080D16&color=B8C7D9&line=00E5FF&point=BB70FF&area=true&area_color=102B40&hide_border=true&custom_title=DEVELOPMENT%20SIGNAL%20%2F%2F%20CONTRIBUTION%20HISTORY" alt="Contribution activity graph"/></div>"05 / BUILD PIPELINE"
+<div align="center"><img width="100%" src="https://github-readme-stats.vercel.app/api?username=SteveBaldeviso0712&show_icons=true&hide_border=true&bg_color=080D16&title_color=00F5FF&text_color=C3D1E0&icon_color=FF38C7&rank_icon=github" alt="GitHub statistics"/><img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SteveBaldeviso0712&layout=compact&hide_border=true&bg_color=080D16&title_color=00F5FF&text_color=C3D1E0" alt="Most-used languages"/><img width="100%" src="https://streak-stats.demolab.com?user=SteveBaldeviso0712&theme=transparent&hide_border=true&background=080D16&ring=00F5FF&fire=FF38C7&currStreakLabel=00F5FF&sideLabels=9BB0C8&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=74849B" alt="GitHub contribution streak"/></div><img width="100%" height="5" src="https://capsule-render.vercel.app/api?type=rect&height=5&color=0:00F5FF,25:05070D,50:9D70FF,75:05070D,100:FF38C7" alt="Neon signal divider"/>"05 // BUILD PIPELINE"
 
-  IDEA
-   |
-   v
-  CIRCUIT DESIGN -----> FIRMWARE
-   |                       |
-   v                       v
-  PROTOTYPE ----------> INTEGRATION
-                           |
-                           v
-                       TEST / DEBUG
-                           |
-                           v
-                       ITERATION
+  [ CONCEPT ]
+       |
+       v
+  [ CIRCUIT DESIGN ]
+       |
+       v
+  [ PROTOTYPE ] -----> [ FIRMWARE ]
+       |                    |
+       +---------+----------+
+                 |
+                 v
+          [ INTEGRATION ]
+                 |
+                 v
+           [ TEST / DEBUG ]
+                 |
+                 v
+             [ ITERATE ]
 
-"06 / NEXT TRANSMISSION"
+"06 // LONG-TERM OBJECTIVE"
 
-My long-term goal is to become an electronics engineer working across hardware design, embedded firmware, and real-world system integration.
+Electronics engineering. Embedded systems. Real-world problem solving.
 
-I want to understand not only how to program a device, but also how its circuits, signals, components, and software interact.
+I want to understand how circuits, components, signals, and software work together — and build practical systems that combine all four.
 
-<div align="center"><img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=13&duration=3000&pause=1200&color=00E5FF&center=true&vCenter=true&width=550&height=25&lines=DESIGN+THE+CIRCUIT.;WRITE+THE+FIRMWARE.;MAKE+IT+WORK+IN+THE+REAL+WORLD." alt="Engineering motto"/><img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=90&section=footer&color=0:05070D,45:10263B,75:16203B,100:05070D"/></div>
-```
+<div align="center"><img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=13&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=320&height=25&lines=DESIGN.;BUILD.;TEST.;IMPROVE." alt="Engineering cycle"/><a href="https://github.com/SteveBaldeviso0712">
+<img src="https://img.shields.io/badge/ACCESS_MY_GITHUB-00F5FF?style=for-the-badge&logo=github&logoColor=080D16&labelColor=080D16" alt="Visit GitHub profile"/>
+</a><br/><sub>TRANSMISSION ACTIVE // MORE BUILDS IN DEVELOPMENT</sub>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:05070D,40:10263B,70:10172B,100:05070D"/></div>
