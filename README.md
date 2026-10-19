@@ -1,18 +1,19 @@
-<!-- DYNAMIC WAVING HEADER BANNER -->
+<!-- 🔥 ULTRA-PIZZAZ HERO AREA 🔥 -->
 <div align="center">
+  <!-- DYNAMIC WAVING BANNER -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00f2fe&height=220&section=header&text=STEVE%20BALDEVISO&fontSize=42&fontColor=ffffff&animation=fadeIn&stroke=000000&strokeWidth=1" width="100%"/>
-</div>
 
-<!-- AUTO-TYPING SUBTITLE ANIMATION -->
-<div align="center">
+  <!-- AUTO-TYPING MATRIX SUBTITLE -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00F2FE&center=true&vcenter=true&width=600&lines=Grade+10+STE+Student+%7C+CabSU%2FCNCHS;Embedded+Systems+%26+Firmware+Developer;IoT+Architect+%2B+ESP32%2FHardware+Builder;Future+Electronics+%26+Electrical+Engineer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1200&color=00F2FE&center=true&vcenter=true&width=700&height=50&lines=Grade+10+STE+Student+%7C+CabSU%2FCNCHS;IoT+Architect+%2B+ESP32%2FHardware+Builder;Embedded+C%2B%2B+%26+Firmware+Developer;Future+Electronics+%26+Electrical+Engineer" alt="Typing SVG" />
   </a>
+
+  <p><b>Building Next-Gen Hardware & Embedded Firmware Systems 🇵🇭</b></p>
 </div>
 
 <br/>
 
-<!-- SLEEK TECH BADGES -->
+<!-- SLEEK 3D TECH BADGES -->
 <div align="center">
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
   <img src="https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=espressif&logoColor=white"/>
@@ -23,15 +24,15 @@
 
 ---
 
-### 🔬 Technical Workbench & Hardware Stack
+### 🔬 Technical Workbench & Hardware Matrix
 
 ```text
-┌─────────────────────────┬─────────────────────────────────────────────────┐
-│ CATEGORY                │ HARDWARE & SOFTWARE TOOLS                       │
-├─────────────────────────┼─────────────────────────────────────────────────┤
-│ Microcontrollers        │ ESP32 (Wi-Fi/BLE), Arduino Uno, ESP8266         │
-│ Low-Level Protocols     │ UART, SPI, I2C, GPIO Interfacing, PWM Control   │
-│ IoT & Connectivity      │ MQTT, Webhooks, Telegram API, WebSockets        │
-│ Design & Simulation     │ EasyEDA, Wokwi, Tinkercad, KiCad Schematics      │
-│ Languages               │ Embedded C++, C, Python, Basic Shell Scripting  │
-└─────────────────────────┴─────────────────────────────────────────────────┘
+┌─────────────────────────┬────────────────────────────────────────────────────────────┐
+│ CATEGORY                │ HARDWARE & SOFTWARE STACK                                  │
+├─────────────────────────┼────────────────────────────────────────────────────────────┤
+│ Microcontrollers        │ ESP32 (Wi-Fi/BLE), STM32, Arduino Uno, ESP8266             │
+│ Protocols & Interfacing │ UART, SPI, I2C, GPIO Interfacing, PWM Control, Timers      │
+│ IoT & Cloud             │ MQTT, Webhooks, Telegram API, WebSockets, Blynk Dashboard │
+│ Design & Simulation     │ EasyEDA (Schematics), Wokwi (Simulation), Tinkercad         │
+│ Core Languages          │ Embedded C++, C, Python, Basic Linux Shell (Bash)          │
+└─────────────────────────┴────────────────────────────────────────────────────────────┘
