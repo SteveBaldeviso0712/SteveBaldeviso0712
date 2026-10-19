@@ -1,6 +1,6 @@
 <!-- HEADER BANNER -->
 <div align="center">
-  <h1>⚡ STEVE BALDEVISO</h1>
+  <h1>⚡ STEVE BALDEVISO ⚡</h1>
   <p><b>Embedded Systems | IoT Architecture | Hardware & Firmware Engineering</b></p>
   
   <p>
